@@ -12,12 +12,15 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin	KEYWORD2
-settime KEYWORD2
-gettime KEYWORD2
-blinktime KEYWORD2
-period  KEYWORD2
-iarduino_RTC  KEYWORD2
+attach   KEYWORD2
+selectPowerDown   KEYWORD2
+readRegisters  KEYWORD2
+selectVref`KEYWORD2
+selectGain  KEYWORD2
+getVref  KEYWORD2
+getGain  KEYWORD2
+getPowerDown   KEYWORD2
+getDACData  KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
